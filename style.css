@@ -1,0 +1,177 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+/*Header Part CSS*/
+.box-container{
+    padding-top: 100px;
+    padding-left: 100px;
+    margin: 100px;
+}
+.h-h3{
+color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 400;
+font-size: 30px;
+
+}
+.h-h1{
+    color: #EC4C7A;
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 70px;
+    
+}
+.h-p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    margin-bottom: 50px;
+    color: #707070;
+   
+
+}
+.h-a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(#EC5094, #ED4B70);
+    background-size: 30px;
+    font-weight: 400;
+    border-radius: 5px;
+    padding: 10px 35px;
+    color: white;
+    
+}
+.container{
+    display: flex;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 75%;
+    padding-top: 100px;
+    padding-right: 100px;
+    
+}
+.top-banner{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+}
+/*End Header Part CSS*/
+
+
+/*Start Biography Part CSS*/
+.biography-banner{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+/*End Biography Part CSS*/
+
+
+/*Start My latest Work Part*/
+
+.third-h3{
+text-align: center;
+color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 400;
+font-size: 40px;
+}
+
+.latest-work-banner{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100%;
+    }
+   
+
+
+.image-container{
+    display: flex;
+    padding-bottom: 150px;
+    
+}
+.third-width{
+    width: 30%;
+    padding-left: 7%;
+}
+.third-width img {
+    width: 80%;
+}
+/*End My latest Work Part*/
+
+
+
+/*Start Last Part*/
+.h1-last{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.h3-last{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    padding-top: 20px;
+    
+}
+.h4-last{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: gray;
+    padding-top: 20px;
+}
+.p-last{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 600;
+   padding-top:30px ;
+    padding-bottom: 40px;
+    
+
+    
+}
+.box-last{
+    background-image: linear-gradient(#EC5094, #ED4B70);
+    width: 20%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 5px;
+    padding-top: 20px;
+    
+}
+.p-box{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.h3-box{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.last-banner{
+    background-image: url("footer.png");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100%;
+
+}
+.foot {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    padding-top: 140px;
+}
+/*End Last Part*/
+
+
